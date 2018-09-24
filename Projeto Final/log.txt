@@ -1,0 +1,126 @@
+estagio , Login no sistema , 11-11-2017 , 21:31:05
+estagio , Busca por livro , 11-11-2017 , 21:31:09
+estagio , Busca por livro , 11-11-2017 , 21:31:16
+estagio , Logout do sistema , 11-11-2017 , 21:31:22
+estagio , Logout do sistema , 11-11-2017 , 21:58:08
+estagio , Login no sistema , 12-11-2017 , 11:42:33
+estagio , Busca por livro , 12-11-2017 , 11:42:40
+estagio , Logout do sistema , 12-11-2017 , 11:42:44
+estagio , Login no sistema , 13-11-2017 , 14:48:04
+estagio , Busca por livro , 13-11-2017 , 14:48:17
+estagio , Busca por livro , 13-11-2017 , 14:48:40
+estagio , Logout do sistema , 13-11-2017 , 14:48:46
+Tecnico , Cadastro de livro , 11-11-2017 , 13:31:16
+Tecnico , Login no sistema , 11-11-2017 , 21:47:15
+Tecnico , Logout do sistema , 11-11-2017 , 21:47:27
+Tecnico , Login no sistema , 11-11-2017 , 21:48:47
+Tecnico , Logout do sistema , 11-11-2017 , 21:49:01
+Tecnico , Login no sistema , 13-11-2017 , 14:48:59
+Tecnico , Busca por livro , 13-11-2017 , 14:49:06
+Tecnico , Busca por livro , 13-11-2017 , 14:49:22
+Tecnico , Busca por livro , 13-11-2017 , 14:49:56
+Tecnico , Busca por livro , 13-11-2017 , 14:50:18
+Tecnico , Logout do sistema , 13-11-2017 , 14:50:27
+adm , Login no sistema , 12-11-2017 , 11:41:39
+adm , Alteração de nível de acesso ao sistema , 12-11-2017 , 11:42:04
+adm , Busca por livro , 12-11-2017 , 11:42:18
+adm , Logout do sistema , 12-11-2017 , 11:42:23
+adm , Login no sistema , 12-11-2017 , 12:02:57
+adm , Busca por livro , 12-11-2017 , 12:03:13
+adm , Alteração de nível de acesso ao sistema , 12-11-2017 , 12:03:48
+adm , Cadastro de usuário , 12-11-2017 , 12:04:06
+adm , Cadastro de livro , 12-11-2017 , 12:05:09
+adm , Logout do sistema , 12-11-2017 , 12:05:18
+adm , Login no sistema , 12-11-2017 , 15:22:27
+adm , Busca por livro , 12-11-2017 , 15:23:04
+adm , Logout do sistema , 12-11-2017 , 15:23:11
+adm , Logout do sistema , 13-11-2017 , 15:23:11
+adm , Login no sistema , 12-11-2017 , 16:22:32
+adm , Logout do sistema , 12-11-2017 , 16:23:18
+adm , Login no sistema , 12-11-2017 , 16:31:14
+adm , Logout do sistema , 12-11-2017 , 16:31:48
+adm , Login no sistema , 12-11-2017 , 17:04:36
+adm , Consulta de logs de ações no sistema , 12-11-2017 , 17:04:47
+adm , Logout do sistema , 12-11-2017 , 17:05:07
+adm , Login no sistema , 12-11-2017 , 23:20:12
+adm , Busca por livro , 12-11-2017 , 23:20:18
+adm , Logout do sistema , 12-11-2017 , 23:20:30
+adm , Login no sistema , 12-11-2017 , 23:33:56
+adm , Logout do sistema , 12-11-2017 , 23:34:20
+adm , Login no sistema , 12-11-2017 , 23:43:47
+adm , Alteração de cadastro de livro , 12-11-2017 , 23:44:50
+adm , Busca por livro , 12-11-2017 , 23:45:36
+adm , Cadastro de livro , 12-11-2017 , 23:47:32
+adm , Alteração de cadastro de livro , 12-11-2017 , 23:48:29
+adm , Logout do sistema , 12-11-2017 , 23:49:03
+adm , Login no sistema , 12-11-2017 , 23:50:34
+adm , Exibir todos os livros ordenados por autor , 12-11-2017 , 23:50:38
+adm , Logout do sistema , 12-11-2017 , 23:50:39
+adm , Login no sistema , 13-11-2017 , 00:01:26
+adm , Exibir todos os livros ordenados por autor , 13-11-2017 , 00:01:29
+adm , Cadastro de usuário , 13-11-2017 , 00:02:06
+adm , Alteração de cadastro de livro , 13-11-2017 , 00:03:00
+adm , Busca por livro , 13-11-2017 , 00:03:05
+adm , Busca por livro , 13-11-2017 , 00:03:24
+adm , Logout do sistema , 13-11-2017 , 00:04:19
+adm , Login no sistema , 13-11-2017 , 00:51:50
+adm , Remoção de cadastro de usuário , 13-11-2017 , 00:52:18
+adm , Logout do sistema , 13-11-2017 , 00:52:38
+adm , Login no sistema , 13-11-2017 , 02:26:41
+adm , Exibir todos os livros ordenados por autor , 13-11-2017 , 02:26:46
+adm , Logout do sistema , 13-11-2017 , 02:27:05
+adm , Login no sistema , 13-11-2017 , 14:58:53
+adm , Alteração de nível de acesso ao sistema , 13-11-2017 , 14:59:03
+adm , Remoção de cadastro de usuário , 13-11-2017 , 14:59:16
+adm , Logout do sistema , 13-11-2017 , 14:59:19
+adm , Login no sistema , 13-11-2017 , 15:00:28
+adm , Alteração de nível de acesso ao sistema , 13-11-2017 , 15:00:44
+adm , Logout do sistema , 13-11-2017 , 15:00:49
+adm , Login no sistema , 13-11-2017 , 15:01:19
+adm , Cadastro de usuário , 13-11-2017 , 15:01:36
+adm , Logout do sistema , 13-11-2017 , 15:01:40
+adm , Login no sistema , 13-11-2017 , 15:01:59
+adm , Alteração de nível de acesso ao sistema , 13-11-2017 , 15:02:12
+adm , Logout do sistema , 13-11-2017 , 15:02:16
+adm , Login no sistema , 13-11-2017 , 15:05:06
+adm , Alteração de nível de acesso ao sistema , 13-11-2017 , 15:05:20
+adm , Logout do sistema , 13-11-2017 , 15:05:26
+adm , Login no sistema , 13-11-2017 , 15:06:09
+adm , Remoção de cadastro de usuário , 13-11-2017 , 15:07:01
+adm , Cadastro de usuário , 13-11-2017 , 15:07:19
+adm , Alteração de nível de acesso ao sistema , 13-11-2017 , 15:07:35
+adm , Logout do sistema , 13-11-2017 , 15:07:38
+adm , Login no sistema , 13-11-2017 , 15:08:03
+adm , Remoção de cadastro de usuário , 13-11-2017 , 15:08:12
+adm , Logout do sistema , 13-11-2017 , 15:08:14
+adm , Login no sistema , 13-11-2017 , 18:31:44
+adm , Exibir todos os livros ordenados por autor , 13-11-2017 , 18:31:50
+adm , Logout do sistema , 13-11-2017 , 18:32:36
+adm , Login no sistema , 13-11-2017 , 20:23:51
+adm , Busca por livro , 13-11-2017 , 20:24:06
+adm , Logout do sistema , 13-11-2017 , 20:24:24
+jussara , Login no sistema , 13-11-2017 , 00:53:35
+jussara , Busca por livro , 13-11-2017 , 00:53:48
+jussara , Busca por livro , 13-11-2017 , 00:54:11
+jussara , Logout do sistema , 13-11-2017 , 00:54:15
+jussara , Login no sistema , 13-11-2017 , 02:28:53
+jussara , Logout do sistema , 13-11-2017 , 02:28:58
+gerente , Login no sistema , 13-11-2017 , 14:58:37
+gerente , Logout do sistema , 13-11-2017 , 14:58:45
+gerente , Login no sistema , 13-11-2017 , 14:59:30
+gerente , Logout do sistema , 13-11-2017 , 14:59:39
+gerente , Login no sistema , 13-11-2017 , 18:18:23
+gerente , Cadastro de livro , 13-11-2017 , 18:19:38
+gerente , Logout do sistema , 13-11-2017 , 18:19:41
+gerente , Logout do sistema , 13-11-2017 , 18:19:49
+gerente , Exibir todos os livros ordenados por autor , 13-11-2017 , 18:20:33
+gerente , Login no sistema , 13-11-2017 , 18:26:33
+gerente , Busca por livro , 13-11-2017 , 18:27:03
+gerente , Exibir todos os livros ordenados por autor , 13-11-2017 , 18:27:20
+gerente , Cadastro de livro , 13-11-2017 , 18:29:06
+gerente , Cadastro de livro , 13-11-2017 , 18:30:21
+gerente , Cadastro de livro , 13-11-2017 , 18:31:21
+gerente , Logout do sistema , 13-11-2017 , 18:31:24
+tecnico , Login no sistema , 13-11-2017 , 18:16:51
+tecnico , Cadastro de livro , 13-11-2017 , 18:18:08
+tecnico , Logout do sistema , 13-11-2017 , 18:18:13
